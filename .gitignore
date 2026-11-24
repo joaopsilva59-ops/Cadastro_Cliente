@@ -1,0 +1,22 @@
+
+# Arquivos de compilação
+bin/
+obj/
+
+# Configurações do Visual Studio
+.vs/
+
+# Configurações pessoais
+.vscode/
+
+# Arquivos de usuário
+*.user
+*.suo
+
+# Arquivos de configuração com senhas
+appsettings.Development.json
+.env
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
